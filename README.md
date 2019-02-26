@@ -21,4 +21,4 @@ researchers will want an *ab initio* calculation run for a given material. Thus,
 computational resources in a way that maximally caters to the needs of researchers in a way that does not require these
 researchers to know the details of underlying workflow dependencies. One can think of Envoy as maintaining an "index
 fund" of research efforts, tracking a variety of "stocks" in proportion to the number of shares held in
-each. Envoy uses already-computed property data along with ML predictions to prioritize workflows.
+each. Envoy uses already-computed property data along with ML predictions to prioritize workflows in accordance with user objectives.
